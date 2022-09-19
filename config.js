@@ -5,48 +5,48 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6285828764046'] 
-global.mods = ['6285828764046'] 
-global.prems = ['6285828764046'] 
+global.owner = ['6287793236775'] 
+global.mods = ['6287793236775'] 
+global.prems = ['6287793236775'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Zifabotz_offc1'
-global.numberowner = '6285828764046'
-global.instagram = 'https://instagram.com/zalfapontianak'
-global.github = 'https://github.com/Botynyakamu'
-global.dana = '085828764046'
-global.pulsa = '085828764046'
-global.gopay = '085828764046'
+global.nameowner = 'Owner Sxyo'
+global.numberowner = '6287793236775'
+global.instagram = 'https://instagram.com/ahmdzakaria47'
+global.github = 'https://github.com/SxyoBotz1'
+global.dana = '6287793236775'
+global.pulsa = '6282147562437'
+global.gopay = '6287793236775'
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
-global.gc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
-global.web = 'https://instagram.com/zalfapontianak' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/zalfapontianak'
+global.namebot = '❋ཻུ۪۪⸙SxyoBotz-MD⳹ ❋ཻུ۪۪'
+global.gc = 'https://chat.whatsapp.com/JS11vcFkCpM93SycO5Z9tI'
+global.web = 'https://instagram.com/ahmdzakaria47' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.com/ahmdzakaria47'
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ini juga ganti
-global.fotonya3 = 'https://telegra.ph/file/e7019215bb7554614cc2c.jpg'
+global.fotonya1 = 'https://telegra.ph/file/1507bd181594589a9f49a.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/1507bd181594589a9f49a.jpg' //ini juga ganti
+global.fotonya3 = 'https://telegra.ph/file/1507bd181594589a9f49a.jpg'
 global.donasi = 'https://telegra.ph/file/3c4d1c12719a0dac73eeb.jpg' //ganti pakai poto apa aja 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝙕𝙞𝙛𝙖𝙗𝙤𝙩𝙯_𝙊𝙛𝙛cོ1꧅'
-global.wm3 = 'ᯤ rozi 𝙾𝙵𝙲'
+global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝙎𝙭𝙮𝙤𝘽𝙤𝙩𝙯_𝙊𝙛𝙛cོ1꧅'
+global.wm3 = 'ᯤ 𝙖𝙟𝙞 𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
+global.media = 'https://telegra.ph/file/1507bd181594589a9f49a.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '⏳Tunggu kurang lebih 1 menit karna sedang diproses. . .'
 global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Zifabotz'
-global.author = '@rozi'
+global.packname = 'SxyoBotz-MD'
+global.author = '@aji\nRama\nKontol'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
